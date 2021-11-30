@@ -14,15 +14,15 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract
-This project is about monitoring objects from your phone, or laptop from distance
+This project is about monitoring house status.
 
 
 ## Data structure
 
 | data | type |
 | ------ | ------ |
-| INPUT | choose device |
-| OUTPUT | telephone giving view from camera|
+| INPUT | turn on app |
+| OUTPUT | giving information about your home status |
 
 ## Main functionalities
 
@@ -62,8 +62,6 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
-
-## Layout for form in HTML
 
  [erd]: <https://github.com/jakrat/3ai4/blob/main/14/sprites/project_diagram.png>
 
