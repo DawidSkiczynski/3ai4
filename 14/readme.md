@@ -65,10 +65,8 @@ Dillinger uses a number of open source projects to work properly:
 
 ## Layout for form in HTML
 
-[link to layout][form]
+ [erd]: <https://github.com/jakrat/3ai4/blob/main/14/sprites/project_diagram.png>
 
- [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
-
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
+ [osd]: <https://github.com/jakrat/3ai4/blob/main/14/sprites/orgchart.png>
 
  
